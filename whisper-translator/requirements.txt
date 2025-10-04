@@ -1,0 +1,9 @@
+openai-whisper
+pyttsx3
+soundfile
+numpy
+TTS
+resemblyzer
+librosa
+pydub
+python-dotenv
