@@ -1,6 +1,0 @@
-torch
-transformers
-pillow
-protobuf
-sentencepiece
-pdf2image
